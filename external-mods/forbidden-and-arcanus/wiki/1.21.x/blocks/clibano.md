@@ -10,7 +10,7 @@ The clibano is a powerful upgrade to the Blast Furnace that allows faster smelti
 
 The clibano is build out of Darkstone. You need the following materials to get started:
 
-* 18 Polished Darkstone Bricks
+* 17 Polished Darkstone Bricks
 * 8 Polished Darkstone
 * 1 Clibano Core
 * 1 Mundabitur Dust
